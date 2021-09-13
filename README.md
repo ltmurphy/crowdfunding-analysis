@@ -1,6 +1,6 @@
-Kickstarting with Excel
+#Kickstarting with Excel
 
-Overview of Project:
+##Overview of Project:
 Analyze Kickstarter campaign data to identify trends related to launch dates and funding goals. Provide visual aids to represent trends.
 	
 Purpose:
