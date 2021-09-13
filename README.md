@@ -1,5 +1,3 @@
-# kickstarter-analysis
-analyzing kickstarter date to discover trends 
 Kickstarting with Excel
 
 Overview of Project:
