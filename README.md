@@ -4,7 +4,7 @@ Project Overview:
 Analyze Kickstarter campaign data to identify trends related to launch dates and funding goals. Provide visual aids to represent trends.
 	
 Purpose:
-Our client is planning to crowdfund her play. This project will examine global crowdfunding data to identify the common factors between successful campaigns. Visual aids will be provided that will help our client gain greater understanding of the complete crowdfunding process and insights into their planning. She will then be able to model her personal campaign after other similar successful ones to maximize her chances of success. Some factors include:
+Our client is planning to crowdfund her play. This project will examine global crowdfunding data to identify the common factors between successful campaigns. Visual aids will be provided that will help our client gain greater understanding of the complete crowdfunding process and insights into their planning. She will then be able to model her personal campaign after other similar successful ones to maximize her chances of success. Some guiding factors include:
 * ~$12,000.00 budget
 
 Analysis:
