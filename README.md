@@ -1,12 +1,12 @@
-Kickstarting with Excel
+Kickstarter Analysis
 
-Overview of Project:
+Project Overview:
 Analyze Kickstarter campaign data to identify trends related to launch dates and funding goals. Provide visual aids to represent trends.
 	
 Purpose:
 Our client is planning to crowdfund her play. This project will examine global crowdfunding data to identify the common factors between successful campaigns. Visual aids will be provided that will help our client gain greater understanding of the complete crowdfunding process and insights into their planning. She will then be able to model her personal campaign after other similar successful ones to maximize her chances of success.
 
-Analysis and Challenges
+Analysis:
 •	Analysis of Outcomes Based on Launch Date:
 The launch date data provides insight into theater campaigns. The graph shows the peak of successful campaigns in May. The largest number of failed campaigns also occurs during May. The beginning of the year has the most cancellations occurring in January. October has zero cancellations. Another important trend highlighted by the graph is the distance between the failed and successful points at the successful peak. This is the largest separation between successful and failed while the failed point is below the max. Fnally, during the month of Decemberand successful campaigns are almost 
 equal. 
